@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="utf-8" ?><rss version="2.0" xml:base="http://marketplace.eclipse.org/" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Eclipse Plugins, Bundles and Products - Eclipse Marketplace</title>
+    <link>http://marketplace.eclipse.org/</link>
+    <description></description>
+    <language>en</language>
+     <atom:link href="http://marketplace.eclipse.org/rss.xml" rel="self" type="application/rss+xml" />
+      <item>
+    <title>Ctrlflow Insights for Java</title>
+    <link>http://marketplace.eclipse.org/content/ctrlflow-insights-java</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ctrlflow-logo_1.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2013-08-09 14:38&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sat, 2017-04-29 11:30&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Codetrails%20GmbH%22&quot;&gt;Codetrails GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/cteamrav/listings&quot; title=&quot;Codetrails Team&quot;&gt;Codetrails Team&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;&lt;strong&gt;Ctrlflow Insights&lt;/strong&gt; data mines your Java source code, extracts the programming knowledge hidden therein and integrates it back into your IDE by:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		augmenting your Javadoc with code snippets and code statistics&lt;/li&gt;
+&lt;li&gt;
+		enriching your content assist proposals with recommendations&lt;/li&gt;
+&lt;li&gt;
+		extending Findbugs with your API-specific bug patterns&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;– all mined from your code in your Eclipse Workspace.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;a href=&quot;https://www.ctrlflow.com/insights/enterprise/?utm_campaign=ctrlflow&amp;amp;utm_source=marketplace&amp;amp;utm_medium=ctrlflow-insights&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Go to Ctrlflow Insights homepage&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Ctrlflow Insights&lt;/strong&gt; is developed by the committers of &lt;a href=&quot;https://eclipse.org/recommenders/?utm_campaign=recommenders&amp;amp;utm_source=marketplace&amp;amp;utm_medium=ctrlflow-insights&quot; target=&quot;_blank&quot; rel=&quot;nofollow&quot;&gt;Eclipse Code Recommenders&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Fri, 09 Aug 2013 18:38:51 +0000</pubDate>
+ <dc:creator>cteamrav</dc:creator>
+ <guid isPermaLink="false">1082014 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ctrlflow-insights-java#comments</comments>
+  </item>
+  <item>
+    <title>IBM MobileFirst Foundation Studio</title>
+    <link>http://marketplace.eclipse.org/content/ibm-mobilefirst-foundation-studio</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2012-06-14 13:17&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-04-28 23:44&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22IBM%22&quot;&gt;IBM&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mplatform/listings&quot; title=&quot;MobileFirst Platform&quot;&gt;MobileFirst Platform&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;The IBM MobileFirst™ Studio plug-in helps you manage your Cordova project in the Eclipse development environment. Cordova projects are typically managed by entering commands on the Cordova command line. After integrating the IBM MobileFirst Studio plug-in into your Eclipse environment, you can run the following commands on your Cordova app without leaving the Eclipse development environment: Open server console Preview app Register app Encrypt app Pull app Push app Update app View the &lt;a href=&quot;https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/8.0/application-development/using-mobilefirst-cli-in-eclipse/&quot; rel=&quot;nofollow&quot;&gt;Tutorial&lt;/a&gt; to get up and running quickly using step-by-step instructions. For additional information and support go to &lt;a href=&quot;https://mobilefirstplatform.ibmcloud.com/&quot; rel=&quot;nofollow&quot;&gt;https://mobilefirstplatform.ibmcloud.com/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Thu, 14 Jun 2012 17:17:18 +0000</pubDate>
+ <dc:creator>mplatform</dc:creator>
+ <guid isPermaLink="false">298621 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ibm-mobilefirst-foundation-studio#comments</comments>
+  </item>
+  <item>
+    <title>IBM MobileFirst Platform Test Workbench </title>
+    <link>http://marketplace.eclipse.org/content/ibm-mobilefirst-platform-test-workbench</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/no_image.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2013-06-18 18:31&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-04-28 23:12&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22IBM%22&quot;&gt;IBM&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/mplatform/listings&quot; title=&quot;MobileFirst Platform&quot;&gt;MobileFirst Platform&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;IBM® MobileFirst Platform Test Workbench (previously for Worklight) is an automated functional testing feature for Android and iOS native and hybrid applications developed with IBM MobileFirst Platform Foundation. &lt;strong&gt;Requirements:&lt;/strong&gt;&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		You&#039;ll need the latest &lt;a href=&quot;http://marketplace.eclipse.org/content/ibm-mobilefirst-platform-studio&quot; rel=&quot;nofollow&quot;&gt; MobileFirst Platform Studio&lt;/a&gt; installed first.&lt;/li&gt;
+&lt;li&gt;
+		To test Android applications, you&#039;ll also need a JDK added to your Eclipse path. Add the path to the JDK in Eclipse under Window &amp;gt; Preferences &amp;gt; Java &amp;gt; Installed JREs, and set it as the default JRE by selecting its corresponding checkbox.&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;As a developer, you can use MobileFirst Platform Studio to test your apps with Test Workbench. First, developers or testers record a sequence of actions on a mobile device, using a recording-ready app to generate a test script. Next, they edit and enhance the script using natural language syntax to add verification points and other instructions. Then, they can run the enhanced test script on a real device, simulator, or emulator. Results can be viewed and shared via a generated HTML report. See &lt;a href=&quot;https://mobilefirstplatform.ibmcloud.com/tutorials/en/foundation/7.0/advanced-topics/testing-mobilefirst-platform-applications-mobile-test-workbench/&quot; rel=&quot;nofollow&quot;&gt;Testing MobileFirst Platform applications with the Mobile Test Workbench&lt;/a&gt; to learn more about using this feature, and the mobile test client, with MobileFirst Platform Foundation. For additional information and support go to &lt;a href=&quot;https://developer.ibm.com/mobilefirstplatform/&quot; rel=&quot;nofollow&quot;&gt;https://developer.ibm.com/mobilefirstplatform/&lt;/a&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 18 Jun 2013 22:31:35 +0000</pubDate>
+ <dc:creator>mplatform</dc:creator>
+ <guid isPermaLink="false">923794 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/ibm-mobilefirst-platform-test-workbench#comments</comments>
+  </item>
+  <item>
+    <title>EntireJ - Reports</title>
+    <link>http://marketplace.eclipse.org/content/entirej-reports</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/EJ_BIG.png&quot; width=&quot;79&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-04-28 04:59&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-04-28 09:28&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Mojave%20Innovations%20GmbH%22&quot;&gt;Mojave Innovations GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pharrison6yq/listings&quot; title=&quot;Paul Harrison&quot;&gt;Paul Harrison&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;EntireJ Reports is a Rapid Application Development (RAD) environment for building highly scalable, fast and powerful reports.&lt;/p&gt;
+&lt;p&gt;EntireJ provides a GUI Development environment and runtime libraries that utilise the best report engine to generate the desired report. Current report engines are:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Jasper Reports&lt;/li&gt;
+&lt;li&gt;
+		POI&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;EntireJ will choose the correct engine for the report, for example, POI is used when generating a large data intensive excel report, as it is much faster and uses allot less memory.&lt;/p&gt;
+&lt;p&gt;Developers can concentrate ob building their reports without requiring the detailed and expert level of knowledge that is required for generating such Jasper and POI reports.&lt;/p&gt;
+&lt;p&gt;Additional Features Include:&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Simple Report Runner&lt;/li&gt;
+&lt;li&gt;
+		Row Level Dynamic Styling&lt;/li&gt;
+&lt;li&gt;
+		Action Processors to add Business Logic&lt;/li&gt;
+&lt;li&gt;
+		Optimised Report Engines&lt;/li&gt;
+&lt;li&gt;
+		GUI Editor for Report Creation&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Fri, 28 Apr 2017 08:59:30 +0000</pubDate>
+ <dc:creator>pharrison6yq</dc:creator>
+ <guid isPermaLink="false">3418028 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/entirej-reports#comments</comments>
+  </item>
+  <item>
+    <title>EntireJ</title>
+    <link>http://marketplace.eclipse.org/content/entirej</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/ForEclipse.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2013-05-21 13:19&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Fri, 2017-04-28 09:01&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Mojave%20Innovations%20GmbH%22&quot;&gt;Mojave Innovations GmbH&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/pharrison6yq/listings&quot; title=&quot;Paul Harrison&quot;&gt;Paul Harrison&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;EntireJ is a Rapid Application Development (RAD) environment for building highly scalable, enterprise-class applications in &lt;strong&gt;RAP/JavaFX&lt;/strong&gt;. EntireJ uses powerful declarative features so that business developers can instantly create fully functional applications using any type of data persistency. EntireJ also provides an EntireJ Reports tool that allows you to create not only EJ Forms but EJ Reports. EntireJ provides a wrapper around the Jasper reporting tool providing a far easier and more EntireJ friendly development environment One of the main design decisions behind EntireJ was to build a development tool that gives developers the possibility to create applications without having to learn the complex programming languages used by the various client frameworks. With the help of EntireJ a developer with little java know-how can now create the following without having to learn these technologies.&lt;/p&gt;
+&lt;ul&gt;&lt;li&gt;
+		Web applications using &lt;strong&gt;RAP&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+		Desktop applications using &lt;strong&gt;RCP&lt;/strong&gt; and &lt;strong&gt;JavaFX&lt;/strong&gt;&lt;/li&gt;
+&lt;li&gt;
+		Mobile applications using the &lt;strong&gt;&lt;a href=&quot;http://developer.eclipsesource.com/tabris/&quot; rel=&quot;nofollow&quot;&gt;Tabris&lt;/a&gt;&lt;/strong&gt; Mobile Client Framework&lt;/li&gt;
+&lt;li&gt;
+		EntireJ Reports using &lt;strong&gt;Jasper reports&lt;/strong&gt; and &lt;strong&gt;POI&lt;/strong&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;p&gt;Developers can concentrate more on the business requirements rather than the technical requirements of the application, which will result in enormous savings in terms of time and money.&lt;/p&gt;
+&lt;p&gt;If you are looking for a tool that will enable you to move from an Oracle Forms environment to Java then EntireJ is perfect for you! EntireJ offers everything that you are used to in Oracle Forms and more. Download, install and contact our Support for all the information you require in moving from Oracle Forms to Java. For more information on EntireJ visit our &lt;a href=&quot;http://www.entirej.com&quot; rel=&quot;nofollow&quot;&gt;website&lt;/a&gt; or for information on installing and using EntireJ read through the helpful tutorials and reference guides: &lt;a href=&quot;http://docs.entirej.com:8090&quot; rel=&quot;nofollow&quot;&gt;EntireJ Documentation Website&lt;/a&gt;&lt;strong&gt;&lt;strong&gt; &lt;/strong&gt;&lt;/strong&gt;&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 21 May 2013 17:19:27 +0000</pubDate>
+ <dc:creator>pharrison6yq</dc:creator>
+ <guid isPermaLink="false">867720 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/entirej#comments</comments>
+  </item>
+  <item>
+    <title>MintJams FetchMail</title>
+    <link>http://marketplace.eclipse.org/content/mintjams-fetchmail</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/default_2.png&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Sun, 2015-01-25 07:10&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-04-27 22:39&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22MintJams%20Inc.%22&quot;&gt;MintJams Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/kfukudar10/listings&quot; title=&quot;Kenichi Fukuda&quot;&gt;Kenichi Fukuda&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;MintJams FetchMail is mail-retrieval and forwarding tool.&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Sun, 25 Jan 2015 12:10:47 +0000</pubDate>
+ <dc:creator>kfukudar10</dc:creator>
+ <guid isPermaLink="false">2156826 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/mintjams-fetchmail#comments</comments>
+  </item>
+  <item>
+    <title>MintJams Terminal Plug-in</title>
+    <link>http://marketplace.eclipse.org/content/mintjams-terminal-plug</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/default_images/no_image.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Tue, 2013-06-11 15:02&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-04-27 22:37&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22MintJams%20Inc.%22&quot;&gt;MintJams Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/kfukudar10/listings&quot; title=&quot;Kenichi Fukuda&quot;&gt;Kenichi Fukuda&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;MintJams Terminal Plug-in allows to open a terminal window in Eclipse. It adds a following two pop-up menu item to the Package Explorer and Project Explorer.
+
+
+
+			
+
+&lt;ul&gt;&lt;li&gt;
+					Open Terminal Here: Terminal window is opened in a editor area. The current directory of the terminal is the directory which was selected with the popup menu.&lt;/li&gt;
+&lt;li&gt;
+					Open Terminal: Terminal window is opened in a editor area. The current directory of the terminal is current user&#039;s home directory.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+
+
+		New features in v2.0.5:
+&lt;ul&gt;&lt;li&gt;
+			Integrate with Console view.&lt;/li&gt;
+&lt;/ul&gt;
+
+		New features in v1.1.0:
+&lt;ul&gt;&lt;li&gt;
+			Pasting file path into the Terminal via drag-and-drop.&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+		Features:
+&lt;ul&gt;&lt;li&gt;
+			Command-line terminal for Windows&lt;/li&gt;
+&lt;li&gt;
+			Local shell terminal for Mac OS X&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+		Related:
+&lt;ul&gt;&lt;li&gt;
+			&lt;a href=&quot;http://www.slideshare.net/mintjams/creating-a-web-application-with-javascript-jquery?qid=bb946b81-bae1-4124-ae7b-897841fe552f&quot; rel=&quot;nofollow&quot;&gt;Creating a Web Application with JavaScript + jQuery&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+			&lt;a href=&quot;http://www.slideshare.net/mintjams/event-handling-basics?qid=09d056d6-e14d-4dd4-a09c-848917c095af&quot; rel=&quot;nofollow&quot;&gt;Event Handling Basics&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Tue, 11 Jun 2013 19:02:13 +0000</pubDate>
+ <dc:creator>kfukudar10</dc:creator>
+ <guid isPermaLink="false">909243 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/mintjams-terminal-plug#comments</comments>
+  </item>
+  <item>
+    <title>MintJams Content Management Tools Standard</title>
+    <link>http://marketplace.eclipse.org/content/mintjams-content-management-tools-standard</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/cmtlogo_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Wed, 2010-05-05 23:48&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-04-27 22:37&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22MintJams%20Inc.%22&quot;&gt;MintJams Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/kfukudar10/listings&quot; title=&quot;Kenichi Fukuda&quot;&gt;Kenichi Fukuda&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;MintJams Content Management Tools Standard is user interface for CR5.
+
+	&lt;a href=&quot;http://www.slideshare.net/mintjams/creating-a-web-application-with-javascript-jquery?qid=bb946b81-bae1-4124-ae7b-897841fe552f&quot; rel=&quot;nofollow&quot;&gt;Creating a Web Application with JavaScript + jQuery&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.slideshare.net/mintjams/event-handling-basics?qid=09d056d6-e14d-4dd4-a09c-848917c095af&quot; rel=&quot;nofollow&quot;&gt;Event Handling Basics&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.slideshare.net/mintjams/adding-social-login-with-bpmn-20?qid=ef98a24b-4bea-43e3-a13b-ea356349dc1c&quot; rel=&quot;nofollow&quot;&gt;Adding Social Login with BPMN 2.0&lt;/a&gt;
+
+	Documents:
+&lt;ul&gt;&lt;li&gt;
+			&lt;a href=&quot;http://www.slideshare.net/mintjams/getting-started-31643179&quot; rel=&quot;nofollow&quot;&gt;Getting Started&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+			&lt;a href=&quot;http://www.slideshare.net/mintjams/managing-users-and-groups&quot; rel=&quot;nofollow&quot;&gt;Managing Users and Groups&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;
+			&lt;a href=&quot;http://www.slideshare.net/mintjams/recommended-securitysettings&quot; rel=&quot;nofollow&quot;&gt;Recommended Security Settings&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Thu, 06 May 2010 03:48:40 +0000</pubDate>
+ <dc:creator>kfukudar10</dc:creator>
+ <guid isPermaLink="false">1200 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/mintjams-content-management-tools-standard#comments</comments>
+  </item>
+  <item>
+    <title>MintJams Content Management Tools</title>
+    <link>http://marketplace.eclipse.org/content/mintjams-content-management-tools</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/cmtlogo.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2012-08-27 02:05&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-04-27 22:36&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22MintJams%20Inc.%22&quot;&gt;MintJams Inc.&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/kfukudar10/listings&quot; title=&quot;Kenichi Fukuda&quot;&gt;Kenichi Fukuda&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;The MintJams Content Management Tools is an innovative content management tool. MintJams Content Management Tools enables you to connect, access and manage local storage, WebDAV storage, and FTP storage using same user interface in powerful new ways. Designed to meet the needs of today&#039;s business, MintJams Content Management Tools helps you get more done -- easier, faster, better.
+
+	&lt;a href=&quot;http://www.slideshare.net/mintjams/creating-a-web-application-with-javascript-jquery?qid=bb946b81-bae1-4124-ae7b-897841fe552f&quot; rel=&quot;nofollow&quot;&gt;Creating a Web Application with JavaScript + jQuery&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.slideshare.net/mintjams/event-handling-basics?qid=09d056d6-e14d-4dd4-a09c-848917c095af&quot; rel=&quot;nofollow&quot;&gt;Event Handling Basics&lt;/a&gt;&lt;br /&gt;&lt;a href=&quot;http://www.slideshare.net/mintjams/adding-social-login-with-bpmn-20?qid=ef98a24b-4bea-43e3-a13b-ea356349dc1c&quot; rel=&quot;nofollow&quot;&gt;Adding Social Login with BPMN 2.0&lt;/a&gt;
+
+
+		New features in v3.12.0:
+&lt;ul&gt;&lt;li&gt;
+			Support for Amazon S3&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+		New features in v2.9.0:
+&lt;ul&gt;&lt;li&gt;
+			Support for SSH/local terminal (integrate with &lt;a href=&quot;http://marketplace.eclipse.org/content/mintjams-terminal-plug&quot; rel=&quot;nofollow&quot;&gt;Terminal plug-in&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+		New features in v2.8.50:
+&lt;ul&gt;&lt;li&gt;
+			SSH login with the managed identity (integrate with &lt;a href=&quot;http://marketplace.eclipse.org/content/mintjams-pki-tools&quot; rel=&quot;nofollow&quot;&gt;PKI tools&lt;/a&gt;)&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+		Perspectives:
+&lt;ul&gt;&lt;li&gt;
+			Content Management&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+		Team providers:
+&lt;ul&gt;&lt;li&gt;
+			Content Management Tools&lt;/li&gt;
+&lt;/ul&gt;
+
+
+
+		Supported protocols and schemes:
+
+		WebDAV storage
+&lt;ul&gt;&lt;li&gt;
+			HTTP) webdav://host:[port]/...&lt;/li&gt;
+&lt;li&gt;
+			HTTP over SSL) webdavs://host:[port]/...&lt;/li&gt;
+&lt;/ul&gt;
+
+		FTP storage
+&lt;ul&gt;&lt;li&gt;
+			FTP) &lt;a href=&quot;ftp://host:[port]/&quot; rel=&quot;nofollow&quot;&gt;ftp://host:[port]/&lt;/a&gt;...&lt;/li&gt;
+&lt;li&gt;
+			FTP over SSL) ftps://host:[port]/... OR ftpes://host:[port]/...&lt;/li&gt;
+&lt;li&gt;
+			FTP over SSH) &lt;a href=&quot;sftp://host:[port]/&quot; rel=&quot;nofollow&quot;&gt;sftp://host:[port]/&lt;/a&gt;...&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 27 Aug 2012 06:05:12 +0000</pubDate>
+ <dc:creator>kfukudar10</dc:creator>
+ <guid isPermaLink="false">390933 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/mintjams-content-management-tools#comments</comments>
+  </item>
+  <item>
+    <title>Veracode Greenlight</title>
+    <link>http://marketplace.eclipse.org/content/veracode-greenlight</link>
+    <description>&lt;div class=&quot;field field-name-field-resource-image field-type-image field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;img class=&quot;img-responsive&quot; src=&quot;http://marketplace.eclipse.org/sites/default/files/01_Eclipse_Transparent_0.png&quot; width=&quot;110&quot; height=&quot;80&quot; alt=&quot;&quot; /&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-created field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Created:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Mon, 2017-04-10 14:32&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;div class=&quot;field field-name-shared-date-updated field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Date Updated:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;Thu, 2017-04-27 17:13&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;a href=&quot;/search/content/%22Veracode%22&quot;&gt;Veracode&lt;/a&gt;&lt;div class=&quot;field field-name-shared-submitted-by field-type-text field-label-inline clearfix&quot;&gt;&lt;div class=&quot;field-label&quot;&gt;Submitted by:&amp;nbsp;&lt;/div&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;a href=&quot;/user/jbaker4rv/listings&quot; title=&quot;Jeremy Baker&quot;&gt;Jeremy Baker&lt;/a&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_start --&gt;&lt;div class=&quot;field field-name-body field-type-text-with-summary field-label-hidden&quot;&gt;&lt;div class=&quot;field-items&quot;&gt;&lt;div class=&quot;field-item even&quot;&gt;&lt;p&gt;Veracode Greenlight finds security defects in your code and provides contextual remediation advice to help you fix issues in seconds, right in your Eclipse IDE. With Veracode Greenlight, find issues early, reduce development and remediation costs, and deploy quality code on your timeline.&lt;/p&gt;
+&lt;p&gt;Using the Veracode Greenlight Eclipse Plugin Visit &lt;a href=&quot;https://analysiscenter.veracode.com/auth/helpcenter/api/c_about_greenlight.html&quot; rel=&quot;nofollow&quot;&gt;https://analysiscenter.veracode.com/auth/helpcenter/api/c_about_greenlig...&lt;/a&gt; to access our internal Help Center for installation and usage instructions. If you have any questions or need assistance at any time, please contact your Veracode Program Manager or &lt;a href=&quot;mailto:Support@Veracode.com&quot; rel=&quot;nofollow&quot;&gt;Support@Veracode.com&lt;/a&gt;.&lt;/p&gt;&lt;/div&gt;&lt;/div&gt;&lt;/div&gt;&lt;!-- google_ad_section_end --&gt;</description>
+     <pubDate>Mon, 10 Apr 2017 18:32:57 +0000</pubDate>
+ <dc:creator>jbaker4rv</dc:creator>
+ <guid isPermaLink="false">3388415 at http://marketplace.eclipse.org</guid>
+ <comments>http://marketplace.eclipse.org/content/veracode-greenlight#comments</comments>
+  </item>
+  </channel>
+</rss>

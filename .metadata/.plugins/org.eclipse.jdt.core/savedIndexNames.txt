@@ -1,0 +1,4 @@
+INDEX VERSION 1.129+E:\dados\tecnico\Pc\Caronte\.metadata\.plugins\org.eclipse.jdt.core
+3141958188.index
+2272273464.index
+91558158.index
